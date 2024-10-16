@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(203, 199, 199);
+}
+  
+h2{
+    font-family: "Audiowide", sans-serif;
+    text-align: center;
+    margin-top: 75px;
+    padding-top: 15px;
+}
+
+#main-section{
+    /*border: 1px solid gray;*/
+    width: 450px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    color: cadetblue;
+    background-color:white;
+    font-family: "Audiowide", sans-serif;
+}
+button{
+    background-color: #4caf50;
+    color: white;
+    border-color:#4caf50;
+    border-radius: 8px;
+    width: 410px;
+    height: 35px;
+    margin-left: 20px;
+    font-family: "Audiowide", sans-serif;
+}
+input, label{
+    margin-left: 20px;
+    margin-bottom: 10px;
+    width: 400px;
+    color: cadetblue;
+    padding-top: 8px;
+}
+p{
+    margin-left: 20px;
+    
+}
